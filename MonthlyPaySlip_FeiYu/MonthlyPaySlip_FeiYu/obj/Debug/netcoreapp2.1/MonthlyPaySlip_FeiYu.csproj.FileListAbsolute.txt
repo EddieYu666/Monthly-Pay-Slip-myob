@@ -1,0 +1,33 @@
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.deps.json
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.runtimeconfig.json
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.runtimeconfig.dev.json
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.dll
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.csprojAssemblyReference.cache
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.csproj.CoreCompileInputs.cache
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.AssemblyInfoInputs.cache
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.AssemblyInfo.cs
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.pdb
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.dll
+C:/Users/Eddie/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.pdb
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.deps.json
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.runtimeconfig.json
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.runtimeconfig.dev.json
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.dll
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.pdb
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.csprojAssemblyReference.cache
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.csproj.CoreCompileInputs.cache
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.AssemblyInfoInputs.cache
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.AssemblyInfo.cs
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.dll
+/Users/fer_yu/Desktop/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.pdb
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.deps.json
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.runtimeconfig.json
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.runtimeconfig.dev.json
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.dll
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/bin/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.pdb
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.csprojAssemblyReference.cache
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.csproj.CoreCompileInputs.cache
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.AssemblyInfoInputs.cache
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.AssemblyInfo.cs
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.dll
+/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/Debug/netcoreapp2.1/MonthlyPaySlip_FeiYu.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthlyPaySlip_FeiYu", "MonthlyPaySlip_FeiYu\MonthlyPaySlip_FeiYu.csproj", "{FBE40821-E9C0-45D7-AA38-BA1D5C69F9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthlyPaySlip_FeiYu.Test", "MonthlyPaySlip_FeiYu.Test\MonthlyPaySlip_FeiYu.Test.csproj", "{D29609A6-BA69-4858-9FB0-FBD1DD14B8B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE40821-E9C0-45D7-AA38-BA1D5C69F9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE40821-E9C0-45D7-AA38-BA1D5C69F9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE40821-E9C0-45D7-AA38-BA1D5C69F9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE40821-E9C0-45D7-AA38-BA1D5C69F9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D29609A6-BA69-4858-9FB0-FBD1DD14B8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29609A6-BA69-4858-9FB0-FBD1DD14B8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29609A6-BA69-4858-9FB0-FBD1DD14B8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29609A6-BA69-4858-9FB0-FBD1DD14B8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E9783B-902E-48C8-A5D3-40D6DD4B0D0F}
+	EndGlobalSection
+EndGlobal

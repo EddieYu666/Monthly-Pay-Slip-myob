@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.Test/MonthlyPaySlip_FeiYu.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.Test/MonthlyPaySlip_FeiYu.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.Test/MonthlyPaySlip_FeiYu.Test.csproj",
+        "projectName": "MonthlyPaySlip_FeiYu.Test",
+        "projectPath": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.Test/MonthlyPaySlip_FeiYu.Test.csproj",
+        "packagesPath": "/Users/fer_yu/.nuget/packages/",
+        "outputPath": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fer_yu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.csproj": {
+                "projectPath": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.csproj",
+        "projectName": "MonthlyPaySlip_FeiYu",
+        "projectPath": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu.csproj",
+        "packagesPath": "/Users/fer_yu/.nuget/packages/",
+        "outputPath": "/Users/fer_yu/Desktop/Coding Exercise - Fei Yu/MonthlyPaySlip_FeiYu/MonthlyPaySlip_FeiYu/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fer_yu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[12.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
